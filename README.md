@@ -33,10 +33,10 @@ Dataset ini berisi data pelanggan dari perusahaan pemasaran langsung. Kolom-kolo
 
 ## 🎯 Tujuan Proyek
 
-- 🔍 Menganalisis perilaku pelanggan berdasarkan pengeluaran dan aktivitas belanja.
-- 📊 Membuat model klasifikasi untuk memprediksi apakah pelanggan akan menerima kampanye.
-- 📈 Membuat model regresi untuk memprediksi **TotalSpend (CLV)**.
-- 🧪 Membandingkan performa model:
+- Menganalisis perilaku pelanggan berdasarkan pengeluaran dan aktivitas belanja.
+- Membuat model klasifikasi untuk memprediksi apakah pelanggan akan menerima kampanye.
+- Membuat model regresi untuk memprediksi **TotalSpend (CLV)**.
+- Membandingkan performa model:
   - `LinearRegression`
   - `GradientBoostingRegressor`
   - `XGBoost`
