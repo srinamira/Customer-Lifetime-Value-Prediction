@@ -67,6 +67,21 @@ Visualisasi yang disediakan:
 ├── models/ # File model terlatih (jika disimpan)
 ├── README.md # Dokumentasi utama
 
+customer-clv-prediction/
+
+├── data/                   # Dataset asli (CSV/XLSX)
+
+├── notebooks/              # Jupyter Notebook analisis & modeling
+
+├── models/                 # (Opsional) File model yang telah dilatih (.pkl/.joblib)
+
+├── visualizations/         # Hasil grafik dan visualisasi
+
+├── requirements.txt        # Daftar dependencies
+
+├── README.md               # Dokumentasi utama proyek
+
+├── LICENSE                 # Lisensi open-source (jika ada)
 
 ---
 
