@@ -1,6 +1,6 @@
-# 🧠 Customer Analytics and CLV Prediction
+# 🧠 Customer Lifetime Value Prediction
 
-Proyek ini bertujuan untuk menganalisis perilaku pelanggan dan memprediksi **Customer Lifetime Value (CLV)** menggunakan berbagai algoritma **machine learning**, serta mengevaluasi penerimaan pelanggan terhadap kampanye pemasaran.
+Proyek ini bertujuan untuk menganalisis perilaku pelanggan dan memprediksi **Customer Lifetime Value (CLV)** menggunakan berbagai algoritma **machine learning** dan mengevaluasi penerimaan pelanggan terhadap kampanye pemasaran.
 
 Dataset yang digunakan berasal dari Kaggle:  
 👉 [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data)
