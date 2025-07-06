@@ -40,17 +40,7 @@ Dataset ini berisi data pelanggan dari perusahaan pemasaran langsung. Kolom-kolo
   - `LinearRegression`
   - `GradientBoostingRegressor`
   - `XGBoost`
-  - *(Opsional)* `RandomForestRegressor`
-
----
-
-## ⚙️ Tools & Libraries
-
-- Python 3.x
-- Pandas, Numpy
-- Scikit-learn
-- XGBoost
-- Matplotlib, Seaborn
+  - `RandomForestRegressor`
 
 ---
 
